@@ -12,6 +12,12 @@ teste reset
 
 paypal not found
 
+<<<<<<< HEAD
 quero dormir
 
 quero dormir 2
+=======
+teste
+
+Colocando algo a mais aqui
+>>>>>>> teste
