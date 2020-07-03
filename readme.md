@@ -20,4 +20,9 @@ quero dormir 2
 teste
 
 Colocando algo a mais aqui
+<<<<<<< HEAD
+>>>>>>> teste
+=======
+
+colocando maiso coisa ainda pra ver se buga
 >>>>>>> teste
